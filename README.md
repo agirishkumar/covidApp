@@ -47,3 +47,4 @@ python app.py
 ```
 The output appear on localhost.
 
+This app is also run on heroku , its live on: *https://covidapp20.herokuapp.com/*
