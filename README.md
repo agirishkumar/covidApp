@@ -3,7 +3,7 @@
 
 ## Overview
 Automatically generate a graph with this application of the spread and affects of the Covid-19 virus on the world.
-Made with the help of the dataset created by 
+Made with the help of the dataset created by John Hopkins university. 
 
 ## Prerequisites
 * python (3.6 or newer)
